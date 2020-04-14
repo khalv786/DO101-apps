@@ -1,0 +1,11 @@
+{
+    "name": "hello-node",
+    "version": "0.0.1",
+    "description": "my first hello world",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
